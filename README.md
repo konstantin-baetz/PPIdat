@@ -11,5 +11,9 @@ At this time, the data includes two years (2017 and 2019) and one index as well 
 
 These are available as .csv files.
 
+## Sources
+
+The original data is availabe [here](https://isis-online.org/ppi/detail/peddling-peril-index-ppi-2017/) for 2017 and [here](https://isis-online.org/ppi/detail/peddling-peril-index-for-2019/) for 2019.
+
 ### Note:
 The data was collected by the Institute for Science and International Security. It does not belong to me, I have simply transcribed it from publicy available pdf files.
