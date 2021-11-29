@@ -1,5 +1,5 @@
 # PPIdat
-A machine-readable version of the Peddling Peril Index
+A machine-readable version of the Peddling Peril Index.
 
 ## Purpose
 This repo provides researchers with a machine-readable version of the PPI. This index was developed by the Institute for Science and International Security in order to measure country specififc strategic trade controls.
