@@ -22,4 +22,4 @@ The PPI is calculated as the sum of five subindices:
 
 The sum of these is given in the full PPI and the variable *points*.
 
-For more information on who these variables are constructed, see /source/ in this repo.
+For more information on how these variables are constructed, see /source/ in this repo.
