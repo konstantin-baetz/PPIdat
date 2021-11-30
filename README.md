@@ -9,7 +9,7 @@ More information can be found [here](https://isis-online.org/ppi/).
 ## Structure
 At this time, the data includes two years (2017 and 2019) and one index as well as five sub-indices.
 
-These are available in the /PPI_full.csv file. The original source of this data are the .pdf files found in the /source/ directory.
+These are available in the /PPI_full.csv file. The original source of this data are the .pdf files found in the /source/ directory. For further information, see Codebook.md.
 
 ## Sources
 
